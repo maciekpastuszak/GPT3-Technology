@@ -44,3 +44,14 @@
     margin: 0 1rem;
     cursor: pointer;
 }
+
+.gpt3__navbar-sign button,
+.gpt3__navbar-menu_container button {
+    width: 152px;
+    height: 58px;
+    left: 1153px;
+    top: 55px;
+
+    background: #FF4820;
+    border-radius: 5px;
+}

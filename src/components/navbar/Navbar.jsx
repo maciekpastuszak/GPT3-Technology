@@ -5,8 +5,8 @@ import logo from '../../assets/logo.svg';
 
 const Navbar = () => {
   return (
-    <div className="gpt__navbar">
-      <div className="gpt__navbar-links">
+    <div className="gpt3__navbar">
+      <div className="gpt3__navbar-links">
         <div className="gpt3__navbar-links_logo">
           <img src={logo} alt="logo" />
         </div>
@@ -17,6 +17,10 @@ const Navbar = () => {
           <p><a href="#features">Case Studies</a></p>
           <p><a href="#blog">Library</a></p>
         </div>
+      </div>
+      <div className="gpt3__navabar-sign">
+        <p>Sign in</p>
+        <button type="button">Sign up</button>
       </div>
     </div>
   )
