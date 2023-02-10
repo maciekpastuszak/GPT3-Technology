@@ -1,4 +1,5 @@
 import React from 'react';
+import Feature from '../../components/feature/Feature';
 import './features.css';
 
 const featuresData = [
@@ -27,8 +28,10 @@ const Features = () => {
         <h1 className="gradient__text">The Future is Now and Just Need To Realize It. Step into Future Today & Make it Happen.</h1>
       </div>
       <div className="gpt3__features-container">
-
-      </div>
+        {featuresData.map((item, index) => (
+        <Feature title={item.title} text={item.text} key={item.title + index} />
+        ))}
+    </div>
     </div>
   )
 }
