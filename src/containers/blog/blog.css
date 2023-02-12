@@ -6,7 +6,6 @@
 .gpt3__blog-heading {
     width: 100%;
     text-align: left;
-
     margin-bottom: 5rem;
 }
 
@@ -33,3 +32,4 @@
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 2rem;
 }
+
