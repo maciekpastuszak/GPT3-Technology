@@ -12,7 +12,7 @@ const Footer = () => {
         <p>Request early access</p>
       </div>
       <div className="gpt3__footer-links">
-        <div className="gpt3_ffoter-links_logo">
+        <div className="gpt3__footer-links_logo">
           <img src={gpt3Logo} alt="logo" />
           <p>Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved</p>
         </div>
