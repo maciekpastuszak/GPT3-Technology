@@ -1,17 +1,13 @@
-# Modern UI/UX GPT-3 landing page
+# OpenD - a Web3.0 NFT marketplace built on IC blockchain
 
 ## Introduction
-This is a code repository for the landing page (just a front-end) of a website about GPT3 OpenAI technology. 
-The site was build to train myself with React and modern CSS. It includes, among others): 
+This is a code repository for a NFT marketplace, which allows for minting, listing and selling non-funglible tokens on ICP. Similar to other such websites, like OpenSea, it includes (among others): 
+- token contract development
+- NFT minting, buying and selling logic
+- old-school simple design
 
-- React Functional components and their reusability
-- React file and folder structure
-- Fundamental CSS properties to master flex & grid
-- Fundamentals of the CSS BEM Model
-- Animations to complex gradients
-- Media queries for satisfactory responsiveness covering almost devices
+Thank you AppBrewery and Angela Yu for teaching me this.
 
+### [Live Site](https://opend.maciejpastuszak.pl/)
 
-### [Live Site](https://gpt3.maciejpastuszak.pl/)
-
-![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
+![Web3.0 NFT marketplace](https://i.ibb.co/kD2czBB/Crypto-Dunks.png)
