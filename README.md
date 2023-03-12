@@ -1,13 +1,14 @@
-# OpenD - a Web3.0 NFT marketplace built on IC blockchain
+# GPT-3 - a modern UX/UI technology front page
 
 ## Introduction
-This is a code repository for a NFT marketplace, which allows for minting, listing and selling non-funglible tokens on ICP. Similar to other such websites, like OpenSea, it includes (among others): 
-- token contract development
-- NFT minting, buying and selling logic
-- old-school simple design
+This is a code repository for an openAI GPT-3 technology website. 
+It is a modern designed webpage based on React. Using a top rated technologies, it includes (among others): 
+- built with create-react-app development environment,
+- CSS designed with BEM front-end naming method
+- fully flexible design, looking great on all sorts of screen sizes,
+- built on React.js functional components with hooks, 
+- clear components and containers structure,
 
-Thank you AppBrewery and Angela Yu for teaching me this.
+### [Live Site](https://gpt3.maciejpastuszak.pl/)
 
-### [Live Site](https://opend.maciejpastuszak.pl/)
-
-![Web3.0 NFT marketplace](https://i.ibb.co/kD2czBB/Crypto-Dunks.png)
+![Gericht-Restaurant](https://i.ibb.co/680fSww/GPT3.png)
