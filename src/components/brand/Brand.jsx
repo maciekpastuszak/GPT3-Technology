@@ -1,11 +1,5 @@
 import React from "react";
-import {
-  google,
-  slack,
-  atlassian,
-  dropbox,
-  shopify,
-} from "./containers/index.js";
+import { google, slack, atlassian, dropbox, shopify } from "./imports.js";
 import "./brand.css";
 
 const Brand = () => {
